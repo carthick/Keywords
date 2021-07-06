@@ -5,3 +5,4 @@ These are the must mention keywords for the react profile
 ------------------------
   * Inline ternaries
   * Guard Classes
+  * Complex States
